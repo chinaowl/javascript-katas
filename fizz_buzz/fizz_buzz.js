@@ -1,7 +1,7 @@
 function fizzBuzz() {
-	// your code goes here
+    // your code goes here
 }
 
 module.exports = {
-	fizzBuzz: fizzBuzz
+    fizzBuzz: fizzBuzz
 };
